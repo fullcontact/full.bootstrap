@@ -6,7 +6,7 @@
             :distribution :repo}
   :deploy-repositories [["releases" {:url "https://clojars.org/repo/" :creds :gpg}]]
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [fullcontact/full.core "0.10.0"]
+                 [fullcontact/full.core "0.10.1"]
                  [fullcontact/camelsnake "0.9.0"]
                  [fullcontact/full.json "0.10.0"]
                  [fullcontact/full.async "0.9.0"]
