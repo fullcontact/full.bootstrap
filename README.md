@@ -10,3 +10,8 @@ libraries
 * `full.http`
 * `full.json`
 * `full.metrics`
+
+## Example apps
+
+See `examples/http-service` for an example HTTP app that uses libraries listed
+above.
