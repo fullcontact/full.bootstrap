@@ -1,5 +1,7 @@
 # full.bootstrap
 
+[![Clojars Project](https://img.shields.io/clojars/v/fullcontact/full.bootstrap.svg)](https://clojars.org/fullcontact/full.bootstrap)
+
 Virtual package with dependencies to all commonly used FullContact open source
 libraries
 
