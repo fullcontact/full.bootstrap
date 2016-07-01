@@ -1,4 +1,4 @@
-(defproject fullcontact/full.bootstrap "0.10.2"
+(defproject fullcontact/full.bootstrap "0.10.3-SNAPSHOT"
   :description "Boostrap module that pulls in all commonly used full-monty dependencies."
   :url "https://github.com/fullcontact/full.bootstrap"
   :license {:name "Eclipse Public License - v 1.0"
