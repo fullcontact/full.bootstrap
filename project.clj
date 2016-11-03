@@ -21,5 +21,4 @@
                   ["change" "version" "leiningen.release/bump-version"]
                   ["vcs" "commit"]
                   ["vcs" "push"]]
-  :aot :all
-  :profiles {:dev {:dependencies [[midje "1.7.0"]]}})
+  :aot :all)
