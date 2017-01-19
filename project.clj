@@ -11,7 +11,7 @@
                  [fullcontact/full.json "0.10.1"]
                  [fullcontact/full.async "0.9.0"]
                  [fullcontact/full.cache "0.10.1"]
-                 [fullcontact/full.http "0.10.7"]]
+                 [fullcontact/full.http "0.10.8"]]
   :release-tasks [["vcs" "assert-committed"]
                   ["change" "version" "leiningen.release/bump-version" "release"]
                   ["vcs" "commit"]
